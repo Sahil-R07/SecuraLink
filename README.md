@@ -14,3 +14,5 @@ Files
 
     server.py: Implements the server that listens for incoming connections, decrypts received messages, and sends encrypted responses.
     client.py: Implements the client that connects to the server, sends encrypted messages, and displays decrypted responses.
+    
+###For full code please mail me to : githubspam07@gmail.com
